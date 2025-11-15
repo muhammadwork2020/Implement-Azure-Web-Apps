@@ -1,4 +1,4 @@
-# 🚀 AZ-104 Lab: Implement Web Apps
+# 🚀 AZ-Lab: Implement Web Apps
 
 ## 📘 Overview
 
